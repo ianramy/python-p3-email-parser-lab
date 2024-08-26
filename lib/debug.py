@@ -3,4 +3,4 @@
 from email_address_parser import EmailAddressParser
 
 if __name__ == '__main__':
-    import ipdb; ipdb.set_trace()
+    import ipdb; ipdb.set_trace() # type: ignore
